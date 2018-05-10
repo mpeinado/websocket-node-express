@@ -1,0 +1,27 @@
+{
+  "name": "websocket-node-express",
+  "version": "1.0.0",
+  "description": "websockets with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpeinado/websocket-node-express.git"
+  },
+  "keywords": [
+    "Node.js",
+    "websockets"
+  ],
+  "author": "marco.peinado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpeinado/websocket-node-express/issues"
+  },
+  "homepage": "https://github.com/mpeinado/websocket-node-express#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^5.1.1"
+  }
+}
